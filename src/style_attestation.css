@@ -1,0 +1,70 @@
+body {
+    font-family: Arial;
+    background: #f5f7fa;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    margin-top: 40px;
+}
+
+h1 {
+    color: #2c3e50;
+}
+
+.info {
+    margin-bottom: 20px;
+    color: #555;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+}
+
+th, td {
+    padding: 12px;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+th {
+    background: #34495e;
+    color: white;
+}
+
+.ok {
+    color: green;
+    font-weight: bold;
+}
+
+.no {
+    color: red;
+    font-weight: bold;
+}
+
+.btn {
+    padding: 6px 10px;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    margin: 2px;
+}
+
+.voir {
+    background: #2980b9;
+}
+
+.telecharger {
+    background: #27ae60;
+}
+
+.qr {
+    margin-left: 10px;
+}
+
+.msg {
+    color: orange;
+}
